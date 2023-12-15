@@ -3,7 +3,7 @@
 <h2>Tamir Kol | Fullstack developer</h2>
 </div>
 <h3>🚀 About Me</h3>
-thrive on challenges & enjoy creating user friendly solutions on the full spectrum of web development.
+I am motivated by complex challenges and find fulfillment in devising innovative solutions.
 <h3>👩‍💻 Top projects</h3>
 🏆 <b>Trilili</b> - a Trello like clone, project managment application : <a href="https://trilili-project.onrender.com/">check it out👈</a>
 <h3>🛠 Skills & Tools</h3>
